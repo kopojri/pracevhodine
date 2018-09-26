@@ -1,2 +1,0 @@
-# pracevhodine
-Created with CodeSandbox
